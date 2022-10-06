@@ -1,0 +1,67 @@
+.body{
+	margin: 0 ;
+	padding: 0 ;
+}
+.main{
+	width: 800px;
+	min-height: 600px;
+	/*background: gray;*/
+	float: left;
+}
+
+.header{
+	width: 800px;
+	min-height: 135px;
+	background: #F9D900;
+	float: left;
+
+}
+
+.center{
+	width: 800px;
+	min-height: 300px;
+	/*background: pink;*/
+	float: left;
+	
+	margin: 15px 0 15px 0;
+}
+
+.footer{
+	width: 800px;
+	min-height: 135px;
+	background:#F9D900;
+	float: left;
+	
+}
+
+.nav{
+	width: 135px;
+	min-height:300px ;
+	background: #F9D900;
+	float: left;
+
+
+}
+
+.article{
+	width: 500px;
+	min-height: 300px;
+	background: #F9D900;
+	float: left;
+	
+	margin: 0 15px 0 15px;
+}
+
+.ads{
+	width: 135px;
+	min-height:300px;
+	background: #F9D900;
+	float: left;
+}
+
+
+.margin{
+	margin: 25px 0 0 25px;
+}
+
+
